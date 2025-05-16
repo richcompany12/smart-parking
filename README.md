@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Smart Parking Memo 개인정보처리방침
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. 개인정보의 수집 및 이용 목적
+Smart Parking Memo는 주차 위치 기록을 위해 다음과 같은 개인정보를 수집합니다:
+- 위치 정보
+- 사용자가 입력한 메모 내용
 
-## Available Scripts
+## 2. 수집하는 개인정보의 항목
+- 위치 정보 (GPS 좌표)
+- 사용자가 입력한 텍스트 메모
 
-In the project directory, you can run:
+## 3. 개인정보의 보유 및 이용 기간
+사용자가 앱을 삭제하거나 계정을 해지할 때까지 개인정보를 보유합니다.
 
-### `npm start`
+## 4. 개인정보의 파기 절차 및 방법
+사용자가 앱을 삭제하거나 계정을 해지하면 즉시 모든 개인정보를 파기합니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 5. 개인정보 보호 대책
+SSL 암호화 통신을 사용하여 개인정보를 안전하게 전송하고 저장합니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 6. 사용자의 권리와 행사 방법
+사용자는 언제든지 앱 내 설정에서 개인정보를 조회, 수정, 삭제할 수 있습니다.
 
-### `npm test`
+## 7. 개인정보 보호책임자
+성명: 권순옥
+연락처: kso121258@gmail.com
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 8. 변경 안내
+본 개인정보처리방침은 법령, 정책 또는 보안 기술의 변경에 따라 내용의 추가, 삭제 및 수정이 있을 시 변경되는 사항에 대하여 공지사항을 통해 고지할 것입니다.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+시행일자: 2024년 8월 29일
